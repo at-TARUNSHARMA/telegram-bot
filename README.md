@@ -1,8 +1,5 @@
 # telegram-bot
  
-Certainly! Below is a simple `README.md` template for a Telegram Bot that allows users to subscribe to daily weather updates:
-
-```markdown
 # Weather Update Telegram Bot
 
 ## Overview
@@ -84,5 +81,3 @@ This bot uses the [Weather Service Provider API](https://weather-service-provide
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Make sure to replace placeholders like `https://github.com/yourusername/weather-update-telegram-bot.git` with the actual URL of your GitHub repository and update any other details specific to your project. Include any specific instructions or configurations that users might need to know when setting up or using the Telegram bot.
